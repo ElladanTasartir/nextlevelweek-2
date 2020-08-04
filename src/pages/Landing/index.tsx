@@ -34,12 +34,12 @@ function Landing() {
             <img src={giveClassesIcon} alt="Estudar" />
             Estudar
           </a>
-
-          <span className="total-connections">
-            Total de 200 conexões já realizadas
-            <img src={purpleHeartIcon} alt="Coração roxo" />
-          </span>
         </div>
+
+        <span className="total-connections">
+          Total de 200 conexões já realizadas
+          <img src={purpleHeartIcon} alt="Coração roxo" />
+        </span>
       </div>
     </div>
   );
