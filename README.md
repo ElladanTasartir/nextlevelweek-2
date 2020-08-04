@@ -1,4 +1,4 @@
-## PROFFY: Sua plataforma de estudos online.
+## PROFFY: Sua plataforma de estudos online. :books:
 
 ![image](https://user-images.githubusercontent.com/51251287/89345267-8347d380-d67d-11ea-83a1-c1d481a54587.png)
 
