@@ -12,7 +12,7 @@ da Rocketseat na trilha Omnistack!
 - NodeJS
 - ReactNative
 
-##### Para testar o projeto: 👓
+#### Para testar o projeto: 👓
 WEB:
 
 ###### Clonar o repositório
