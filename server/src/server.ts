@@ -1,9 +1,11 @@
-import express from 'express';
+import express, { json } from 'express';
 import 'dotenv/config';
 import route from './routes';
 
 
 const app = express();
+
+app.use(json());
 
 app.use(route);
 
