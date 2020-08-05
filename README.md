@@ -7,10 +7,10 @@ Proffy</b> :books: é uma plataforma que conecta alunos e professores para que o
 da Rocketseat na trilha Omnistack!
 
 ### Tecnologias: 💻
-Typescript
-ReactJS
-NodeJS
-ReactNative
+- Typescript
+- ReactJS
+- NodeJS
+- ReactNative
 
 ##### Para testar o projeto: 👓
 WEB:
