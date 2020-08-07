@@ -12,17 +12,29 @@ da Rocketseat na trilha Omnistack!
 - NodeJS
 - ReactNative
 
+
+
 #### Para testar o projeto: 👓
-WEB:
 
 ###### Clonar o repositório
 ```git clone https://github.com/ElladanTasartir/nextlevelweek-2```
+
+##### WEB:
 
 ###### Instalar as dependências do projeto
 ```yarn```
 
 ###### Iniciar o projeto na localhost:3000
 ```yarn start```
+
+#### SERVER:
+
+###### Instalar as dependências do projeto
+```yarn```
+
+###### Iniciar o projeto na localhost:3333
+```yarn start```
+
 
 E por enquanto é isso!
 Nunca se esqueça que:
