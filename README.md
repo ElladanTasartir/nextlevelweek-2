@@ -35,6 +35,14 @@ da Rocketseat na trilha Omnistack!
 ###### Iniciar o projeto na localhost:3333
 ```yarn start```
 
+#### MOBILE:
+
+###### Instalar as dependências do projeto
+```yarn```
+
+###### Iniciar o projeto pelo Expo
+```expo start```
+
 
 E por enquanto é isso!
 Nunca se esqueça que:
